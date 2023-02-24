@@ -1,5 +1,5 @@
 - 👋  @BetannyAlexandra 
-- 🌱 Estudando programação em C,Python,html e css, javascript
+- 🌱 Estudando programação 
 -  Cursando bacharelado em Ciencia da computação no IFMA
 
 BetannyAlexandra/BetannyAlexandra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
